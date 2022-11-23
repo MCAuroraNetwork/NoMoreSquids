@@ -1,0 +1,7 @@
+name: NoMoreSquids
+version: '${version}'
+main: club.aurorapvp.NoMoreSquids
+api-version: 1.19
+authors: [ Villagers654 ]
+description: I need this for a thing
+website: aurorapvp.club
